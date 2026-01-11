@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-labels */
 export const darkTheme = {
   bg: "black",
   bgLi: "#202020",
